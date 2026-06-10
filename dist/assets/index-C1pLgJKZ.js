@@ -245,7 +245,7 @@ Error generating stack: `+e.message+`
             py-4
             rounded-sm
             hover:bg-ouro/10
-          `,children:`Ver Atendimentos`})]})]})]})}var te=s({default:()=>ne}),ne=`/assets/FB_IMG_1780925469391-BwkPbHU0.jpg`,re=s({default:()=>w}),w=`/assets/Screenshot_20260603-101522~2-DjukYdz2.png`,ie=s({default:()=>ae}),ae=`/assets/Screenshot_20260603-101639~2-BEibQKC1.png`,oe=s({default:()=>se}),se=`/assets/Screenshot_20260608-102450~2-qr1Wf1pa.png`,ce=s({default:()=>le}),le=`/assets/Screenshot_20260608-102556~2-CMxNCwh2.png`;function ue({children:e}){return(0,S.jsx)(`span`,{className:`
+          `,children:`Ver Atendimentos`})]})]})]})}var te=s({default:()=>ne}),ne=`/LandingPage-Tata-Edson/assets/FB_IMG_1780925469391-BwkPbHU0.jpg`,re=s({default:()=>w}),w=`/LandingPage-Tata-Edson/assets/Screenshot_20260603-101522~2-DjukYdz2.png`,ie=s({default:()=>ae}),ae=`/LandingPage-Tata-Edson/assets/Screenshot_20260603-101639~2-BEibQKC1.png`,oe=s({default:()=>se}),se=`/LandingPage-Tata-Edson/assets/Screenshot_20260608-102450~2-qr1Wf1pa.png`,ce=s({default:()=>le}),le=`/LandingPage-Tata-Edson/assets/Screenshot_20260608-102556~2-CMxNCwh2.png`;function ue({children:e}){return(0,S.jsx)(`span`,{className:`
       bg-vinho/40
       border
       border-vinho/60

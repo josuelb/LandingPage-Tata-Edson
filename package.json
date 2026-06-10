@@ -1,7 +1,6 @@
 {
   "name": "LandingPage-Tata-Edson",
   "version": "0.1.0",
-  "homepage": "http://josuelb.github.io/LandingPage-Tata-Edson",
   "private": true,
   "dependencies": {
     "@testing-library/dom": "^10.4.1",
